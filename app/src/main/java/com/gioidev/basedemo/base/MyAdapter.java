@@ -1,4 +1,4 @@
-package com.gioidev.basedemo.Base;
+package com.gioidev.basedemo.base;
 
 import android.content.Context;
 import android.view.LayoutInflater;

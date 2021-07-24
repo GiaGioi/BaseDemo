@@ -1,4 +1,4 @@
-package com.gioidev.basedemo.Base;
+package com.gioidev.basedemo.base;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
